@@ -25,7 +25,7 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <p>Aannames testen met echte mensen</p> | Gastcollege _Usability and Accessibility_ van Marie van Driessche - VPRO <p>Coachingsgesprekken</p> | Goede vrijdag  |
+| <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br><br>Aannames testen met echte mensen | Gastcollege _Usability and Accessibility_ van Marie van Driessche - VPRO <br><br>Coachingsgesprekken | Goede vrijdag  |
 | <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <p>Prototype Testen met echte mensen |  Gastcollege Toegankelijkheid Johan Huijkman - Q42 en Roger Ravelli <p>Coachingsgesprekken | Feedbackgesprekken  |
 | <a href=#web-design---week-3>Week 3</a>  | College Web Design <p>Prototype testen met echte mensen | Gastcollege Experimental features van Léonie Watson - W3C <p>Coachingsgesprekken  | Feedbackgesprekken  |
 | Meivakantie |  |  |   |
