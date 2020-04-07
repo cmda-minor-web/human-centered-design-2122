@@ -22,7 +22,7 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 |---|---|---|---|
 | <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br>Aannames testen met echte mensen| College Design van Marie van Driessche - VPRO <br>Coachingsgesprekken | Goede vrijdag  |
 | <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <br>Prototype Testen met echte mensen |  College Toegankelijkheid Johan Huijkman - Q42 <br>Coachingsgesprekken | Feedbackgesprekken  |
-| <a href=#web-design---week-3>Week 3</a>  | College <br>Prototype testen met echte mensen | College Experimental features van Leonie Watson - W3C <br>Coachingsgesprekken  | Feedbackgesprekken  |
+| <a href=#web-design---week-3>Week 3</a>  | College <br>Prototype testen met echte mensen | College Experimental features van Léonie Watson - W3C <br>Coachingsgesprekken  | Feedbackgesprekken  |
 | Meivakantie |  |  |   |
 | <a href=#web-design---week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
 
@@ -151,7 +151,7 @@ Lezen:
 
 #### Donderdag 23 april
 Donderdag begint de les met een Q&A.
-Leonie Watson van W3C geeft een gastcollege over experimental features.
+Léonie Watson van W3C geeft een gastcollege over experimental features.
 
 In de middag zijn er weer coachingsgesprekken in groepjes.
 
