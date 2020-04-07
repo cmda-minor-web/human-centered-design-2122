@@ -20,10 +20,11 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#Web-Desig-Week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br>Aannames testen met echte mensen| College Design van Marie van Driessche - VPRO <br>Coachingsgesprekken | Goede vrijdag  |
-| <a href=#Web-Design-Week-2>Week 2</a>  | College Principles, User Needs & Testen <br>Prototype Testen met echte mensen |  College Toegankelijkheid Johan Huijkman - Q42 <br>Coachingsgesprekken | Feedbackgesprekken  |
-| <a href=#Web-Design-Week-3>Week 3</a>  | College <br>Prototype testen met echte mensen | College Experimental features van Leonie Watson - W3C <br>Coachingsgesprekken  | Feedbackgesprekken  |
-| <a href=#Web-Design-Week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
+| <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br>Aannames testen met echte mensen| College Design van Marie van Driessche - VPRO <br>Coachingsgesprekken | Goede vrijdag  |
+| <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <br>Prototype Testen met echte mensen |  College Toegankelijkheid Johan Huijkman - Q42 <br>Coachingsgesprekken | Feedbackgesprekken  |
+| <a href=#web-design---week-3>Week 3</a>  | College <br>Prototype testen met echte mensen | College Experimental features van Leonie Watson - W3C <br>Coachingsgesprekken  | Feedbackgesprekken  |
+| Meivakantie |  |  |   |
+| <a href=#web-design---week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
 
 
 
