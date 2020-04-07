@@ -20,96 +20,150 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br>Aannames testen met echte mensen| College Design van Marie van Driessche - VPRO | Goede vrijdag  |
-| <a href=#week-2>Week 2</a>  | College Principles, User Needs & Testen <br>Testen met echte mensen |  College Toegankelijkheid Johan Huijkman - Q42) | Feedbackgesprekken  |
-| <a href=#week-3>Week 3</a>  | College <br>Testen met echte mensen | College Experimental features van Leonie Watson - W3C  | Feedbackgesprekken  |
-| <a href=#week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
+| <a href=#Web-Desig-Week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br>Aannames testen met echte mensen| College Design van Marie van Driessche - VPRO <br>Coachingsgesprekken | Goede vrijdag  |
+| <a href=#Web-Design-Week-2>Week 2</a>  | College Principles, User Needs & Testen <br>Prototype Testen met echte mensen |  College Toegankelijkheid Johan Huijkman - Q42 <br>Coachingsgesprekken | Feedbackgesprekken  |
+| <a href=#Web-Design-Week-3>Week 3</a>  | College <br>Prototype testen met echte mensen | College Experimental features van Leonie Watson - W3C <br>Coachingsgesprekken  | Feedbackgesprekken  |
+| <a href=#Web-Design-Week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
 
 
 
 
 ## Programma
 
-### Week 1
+### Web Design - Week 1
 Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
 
+#### Woensdag 8 april
+Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
+
+- [Les 1 Introduktie en briefing opdracht 1]()
 - [College over Exclusive Design]()
-- [Opdracht 1 - Werken met en voor echte mensen](Opdracht1.md)
+- [Opdracht 1 - Ontwerpen met en voor echte mensen](Opdracht1.md)
 
+'s Middags gaan we kennismaken met de gebruikers. Wie is deze gebruiker voor wie je dit gaat maken? Wat vindt deze gebruiker leuk of juist niet? En hoe bedient deze gebruiker een computer?
 
-#### Testen
-Op woensdag gaan we aannames testen en kennismaken met echte mensen.
-
-Marie van Driessche om 14:00
-
-Larissa Klaassen om 14:00.
-
-Roger om 14:00.
-
-Marijn Meijles om 16:00.
+1. Marie van Driessche om 14:00
+2. Larissa Klaassen om 14:00.
+3. Roger om 14:00.
+4. Marijn Meijles om 16:00.
 
 
 
+#### Donderdag 9 april
+Donderdag begint de les met een Q&A. Hoe gingen de gesprekken met de gebruikers? Hoe kun je testen nu we remote werken? Bedenk alvast vragen en opmerkingen om te bespreken.
+Marie van Driessche van de VPRO geeft een gastcollege over Design.
 
-#### Lezen
+Deze les gaan we onderstaande artikelen bespreken:
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
 - [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Need](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
-- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+
+In de middag zijn er coachingsgesprekken in groepjes.
+
+#### Vrijdag 10 april
+Vrijdag is het Goede vrijdag. Geen les.
 
 
 
 
 
-### Week 2
+
+
+### Web Design - Week 2
 Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
-Je krijgt ook een college over principles, user needs & testen.
 
 - [College over Principles, User needs & Testen]()
 - [Opdracht 1.2 - User Scenario  schrijven]()
 - [Opdracht 1.3 - Principles gebruiken in je ontwerp ]()
 
-#### Testen
-Marie van Driessche om 14:00
+#### Woensdag 15 april
+Woensdag krijg je een college over principles, user needs & testen.
 
-Larissa Klaassen om 14:00.
+- [Les 2 principles, user needs & testen]()
 
-Roger om 14:00.
-
-Marijn Meijles om 16:00.
-
-
-#### Lezen
+Deze les gaan we dit artikel bespreken:
 - [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
-- [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
-- [Design Principles: Dominance, Focal Points And Hierarchy van Steven Bradley](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
+
+
+'s Middags gaan we testen met de gebruikers.
+
+1. Marie van Driessche om 14:00
+2. Larissa Klaassen om 14:00.
+3. Roger om 14:00.
+4. Marijn Meijles om 16:00.
 
 
 
 
 
-### Week 3
+
+#### Donderdag 16 april
+Donderdag begint de les met een Q&A. Tips en triks voor remote testen?
+Johan Huijkman van Q42 geeft een gastcollege over toegankelijkheid.
+
+In de middag zijn er coachingsgesprekken in groepjes.
+
+
+Deze les gaan we dit artikel bespreken:
+-  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+
+
+
+
+
+#### Vrijdag 17 april
+Vrijdag zijn er feedbackgesprekken met Vasilis || Koop.
+
+
+
+
+
+
+
+
+
+### Web Design - Week 3
 In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag kun je je vorderingen bespreken met je 'mens'.
 
 
 
-#### Testen
-Marie van Driessche om 14:00
+#### Woensdag 22 april
+Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
 
-Larissa Klaassen om 14:00.
-
-Roger om 14:00.
-
-Marijn Meijles om 16:00.
+- [Les 3 college Web Design]()
 
 
-#### Lezen
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+Lezen:
+- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php
 - [How People Look for Information door Donna Spencer](https://moodle.cmd.hva.nl/pluginfile.php/49531/mod_resource/content/0/How%20people%20look%20for%20information.pdf)
 
 
 
-### Week 4
+'s Middags gaan we testen met de gebruikers.
+
+1. Marie van Driessche om 14:00
+2. Larissa Klaassen om 14:00.
+3. Roger om 14:00.
+4. Marijn Meijles om 16:00.
+
+
+
+#### Donderdag 23 april
+Donderdag begint de les met een Q&A.
+Leonie Watson van W3C geeft een gastcollege over experimental features.
+
+In de middag zijn er weer coachingsgesprekken in groepjes.
+
+
+
+#### Vrijdag 24 april
+Vrijdag zijn er feedbackgesprekken met Vasilis || Koop.
+
+
+
+
+
+### Web Design - Week 4
 
 Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de 3 leerdoelen van het vak.
 Lees hier de [criteria van opdracht 1](Opdracht1.md)

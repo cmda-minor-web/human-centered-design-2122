@@ -1,5 +1,5 @@
 # Web design
-## Opdracht 1 - Werken met en voor echte mensen.
+## Opdracht 1 - Ontwerpen met en voor echte mensen.
 
 
 Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 gebruiker. Een _exclusive design_ ... Wie is deze gebruiker dan voor wie je dit gaat maken? Wat vindt deze gebruiker leuk of juist niet? En hoe bedient deze gebruiker een computer?
@@ -71,4 +71,4 @@ Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij
 - Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
 - Test je ideeen en ontwerp 3 keer met jouw specifieke gebruiker. Documenteer de test goed.
 - Verbeter je ontwerp op basis van de feedback die je hebt gekregen van de gebruiker.
-- Reflecteer op de 3 leerdoelen van het vak.
+- Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
