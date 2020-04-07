@@ -25,9 +25,9 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <br><br>Aannames testen met echte mensen | Gastcollege _Usability and Accessibility_ van Marie van Driessche - VPRO <br><br>Coachingsgesprekken | Goede vrijdag  |
-| <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <br><br>Prototype Testen met echte mensen |  Gastcollege Toegankelijkheid Johan Huijkman - Q42 en Roger Ravelli <br><br>Coachingsgesprekken | Feedbackgesprekken  |
-| <a href=#web-design---week-3>Week 3</a>  | College Web Design <br><br>Prototype testen met echte mensen | Gastcollege Experimental features van Léonie Watson - W3C <br><br>Coachingsgesprekken  | Feedbackgesprekken  |
+| <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <p>Aannames testen met echte mensen| Gastcollege _Usability and Accessibility_ van Marie van Driessche - VPRO <p>Coachingsgesprekken | Goede vrijdag  |
+| <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <p>Prototype Testen met echte mensen |  Gastcollege Toegankelijkheid Johan Huijkman - Q42 en Roger Ravelli <p>Coachingsgesprekken | Feedbackgesprekken  |
+| <a href=#web-design---week-3>Week 3</a>  | College Web Design <p>Prototype testen met echte mensen | Gastcollege Experimental features van Léonie Watson - W3C <p>Coachingsgesprekken  | Feedbackgesprekken  |
 | Meivakantie |  |  |   |
 | <a href=#web-design---week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
 
@@ -75,8 +75,7 @@ Vrijdag is het Goede vrijdag. Geen les.
 Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten?
 
 - [College over Principles, User needs & Testen]()
-- [Opdracht 1.2 - User Scenario  schrijven]()
-- [Opdracht 1.3 - Principles gebruiken in je ontwerp ]()
+
 
 
 #### Woensdag 15 april
@@ -127,7 +126,7 @@ Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
 
 Lezen:
 - [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
-- [How People Look for Information door Donna Spencer](https://moodle.cmd.hva.nl/pluginfile.php/49531/mod_resource/content/0/How%20people%20look%20for%20information.pdf)
+
 
 
 's Middags gaan we voor de laatste keer testen.
