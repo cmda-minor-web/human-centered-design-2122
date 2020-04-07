@@ -46,7 +46,7 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 
 <details>
 <summary>Onzichtbare datavisualisatie</summary>
-<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Roger Ravelli?
+<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Larissa Klassen?
 </details>
 
 #### Marijn Meijles
