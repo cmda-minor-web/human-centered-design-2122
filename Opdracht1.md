@@ -2,7 +2,7 @@
 ## Opdracht 1 - Ontwerpen met en voor echte mensen.
 
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 gebruiker. Een _exclusive design_ ... Wie is deze gebruiker dan voor wie je dit gaat maken? Wat vindt deze gebruiker leuk of juist niet? En hoe bedient deze gebruiker een computer?
+Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. Een _exclusive design_ ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer?
 
 
 
@@ -11,7 +11,7 @@ Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te lere
 
 
 ### Uitleg
-Je wordt ingedeeld in een groep die gaat ontwerpen voor 1 specifieke gebruiker. Bij elke groep horen een paar opdrachten. Die mag je zelf kiezen.
+Je wordt ingedeeld in een groep die gaat ontwerpen voor 1 persoon. Niet een doelgroep, maar een persoon.
 
 Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Principles_](https://exclusive-design.vasilis.nl):
 
@@ -37,7 +37,7 @@ Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als D
 
 #### Larissa Klaassen
 
-Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze is laatst tweede geworden op het WK baanwielrennen. 
+Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze is laatst tweede geworden op het WK baanwielrennen.
 
 <details>
 <summary>Topsport-rooster begrijpen</summary>
@@ -46,7 +46,7 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 
 <details>
 <summary>Onzichtbare datavisualisatie</summary>
-<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Roger Ravelli?
+<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Larissa Klaassen?
 </details>
 
 #### Marijn Meijles
@@ -69,7 +69,7 @@ Roger is sinds een jaar of tien langzaam blind aan het worden. Inmiddels is hij 
 
 <details>
 <summary>Hoe werkt een grafiek als je hem niet kunt zien?</summary>
-<p>Een goede grafiek kan in één oogopslag een verhaal vertellen. Maar hoe vertel je dat verhaal als er geen oogopslag is? 
+<p>Een goede grafiek kan in één oogopslag een verhaal vertellen. Maar hoe vertel je dat verhaal als er geen oogopslag is?
 </details>
 
 <details>
@@ -86,6 +86,6 @@ Roger is sinds een jaar of tien langzaam blind aan het worden. Inmiddels is hij 
 
 ### Criteria
 - Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
-- Test je ideeen en ontwerp 3 keer met jouw specifieke gebruiker. Documenteer de test goed.
-- Verbeter je ontwerp op basis van de feedback die je hebt gekregen van de gebruiker.
+- Test je ideeen en ontwerp 3 keer met jouw mens. Documenteer de test goed.
+- Verbeter je ontwerp op basis van de feedback die je hebt gekregen van de tests.
 - Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
