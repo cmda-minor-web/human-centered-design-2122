@@ -41,9 +41,9 @@ Deze week krijg je een college over _Exclusive Design Principles_. Deze Principl
 
 
 #### Woensdag 8 april
-Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
+Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_. [Planning week 1](./slides/Week1.png)
 
-- [Les 1 Introduktie en briefing opdracht 1]()
+- [Les 1 Introduktie en briefing opdracht 1](./slides/WD1920%20Les1%20-%20kickoff.pdf)
 - [College over Exclusive Design]()
 
 's Middags gaan we kennismaken met mensen met wie jullie gaan samenwerken. Wie zijn deze mensen? Wat vinden ze leuk of juist niet? En hoe bedienen ze een computer?
@@ -72,7 +72,7 @@ Vrijdag is het Goede vrijdag. Geen les.
 
 
 ### Web Design - Week 2
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten?
+Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? [Planning week 2](./slides/Week2.png)
 
 - [College over Principles, User needs & Testen]()
 
@@ -115,7 +115,7 @@ Vrijdag zijn er feedbackgesprekken met Vasilis en Koop.
 
 
 ### Web Design - Week 3
-In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laatste sessie met je mens.
+In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laatste sessie met je mens. [Planning week 3](./slides/Week3.png)
 
 
 #### Woensdag 22 april
@@ -124,7 +124,7 @@ Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
 - [Les 3 college Web Design]()
 
 
-Lezen:
+Deze les gaan we dit artikel bespreken:
 - [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 
@@ -144,6 +144,12 @@ Léonie Watson van W3C geeft een gastcollege over experimental features.
 In de middag zijn er weer coachingsgesprekken in groepjes.
 
 
+
+
+Deze les gaan we dit artikel bespreken:
+- [Designing for Interaction Modes van Andrew Grimes](https://alistapart.com/article/designing-for-interaction-modes/)
+
+
 #### Vrijdag 24 april
 Vrijdag zijn er feedbackgesprekken met Vasilis en Koop.
 
@@ -152,7 +158,7 @@ Vrijdag zijn er feedbackgesprekken met Vasilis en Koop.
 
 ### Web Design - Week 4
 
-Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak.
+Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak [Planning week 4](./slides/Week4.png)
 Lees hier de [criteria van opdracht 1](Opdracht1.md)
 
 
