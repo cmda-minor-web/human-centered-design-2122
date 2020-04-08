@@ -44,7 +44,7 @@ Deze week krijg je een college over _Exclusive Design Principles_. Deze Principl
 Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_. [Planning week 1](./slides/Week1.png)
 
 - [Les 1 Introduktie en briefing opdracht 1](./slides/WD1920%20Les1%20-%20kickoff.pdf)
-- [College over Exclusive Design]()
+- [College over Exclusive Design](./slides/exclusive-design.pdf)
 
 's Middags gaan we kennismaken met mensen met wie jullie gaan samenwerken. Wie zijn deze mensen? Wat vinden ze leuk of juist niet? En hoe bedienen ze een computer?
 
