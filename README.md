@@ -158,7 +158,8 @@ Vrijdag zijn er feedbackgesprekken met Vasilis en Koop.
 
 ### Web Design - Week 4
 
-Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak [Planning week 4](./slides/Week4.png)
+Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. [Planning week 4](./slides/Week4.png)
+
 Lees hier de [criteria van opdracht 1](Opdracht1.md)
 
 
