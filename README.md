@@ -58,7 +58,12 @@ Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college ov
 
 #### Donderdag 9 april
 Donderdag begint de les met een Q&A. Hoe gingen de gesprekken jullie mensen? Hoe kun je testen nu we remote werken? Bedenk alvast vragen en opmerkingen om te bespreken.
-Marie van Driessche van de VPRO geeft een gastcollege over Design.
+Marie van Driessche van de VPRO geeft een gastcollege over Inclusive Design.
+
+
+- [Video college les 2](https://bongo-eu.youseeu.com/spa/external-player/63060/d6b860866bf05eb20c7a69c7f3f8a7b5/)
+- [Slides College Marie van Driessche over Inclusie Design](./slides/morethanyouhear_contentdesign_MVD.pdf)
+
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
@@ -75,22 +80,21 @@ Vrijdag is het Goede vrijdag. Geen les.
 ### Web Design - Week 2
 Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? [Planning week 2](./slides/Week2.png)
 
-- [College over Principles, User needs & Testen]()
-
 
 
 #### Woensdag 15 april
 Woensdag krijg je een college over principles, user needs & testen.
 
-- [Les 2 principles, user needs & testen]()
+- [Video college les 3](https://bongo-eu.youseeu.com/spa/external-player/66619/12d7f5bb5c8c10430724c7cf261065cf/)
+- [Slides les 3 <del>Principles,</del> user needs & testen](https://bongo-eu.youseeu.com/spa/external-player/66619/12d7f5bb5c8c10430724c7cf261065cf/)
 
 Deze les gaan we dit artikel bespreken:
 - [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
 -  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
 
-'s Middags gaan we testen.
+'s Middags gaan we weer testen:
 
-1. Marie van Driessche om 14:00
+1. Marie van Driessche om 12:00
 2. Larissa Klaassen om 14:00.
 3. Roger Ravelli om 14:00.
 4. Marijn Meijles om 16:00.
