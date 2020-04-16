@@ -88,4 +88,5 @@ Roger is sinds een jaar of tien langzaam blind aan het worden. Inmiddels is hij 
 - Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
 - Test je ideeen en ontwerp 3 keer met jouw mens. Documenteer de test goed.
 - Verbeter je ontwerp op basis van de feedback die je hebt gekregen van de tests.
+- Schrijf een User Scenario en beschrijf hoe je de _exclusive design principles_ hebt toegepast. 
 - Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
