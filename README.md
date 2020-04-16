@@ -108,7 +108,7 @@ Johan Huijkman van Q42 geeft samen met Roger Ravelli een gastcollege over toegan
 
 - [Video college les 4](https://bongo-eu.youseeu.com/spa/external-player/68303/0bfccc0813370fc97a892907ea58b6e1/)
 - [Slides les 4 Q&A](./slides/WD1920%20Les4%20-%20Q&A.pdf)
-- [Video college Johan Huijkman en Roger Ravelli over toegankelijkheid]()
+- [Video college Johan Huijkman en Roger Ravelli over toegankelijkheid](https://bongo-eu.youseeu.com/spa/external-player/68696/c98549d94ac42f476c2353b722769198/)
 
 
 Deze les gaan we dit artikel bespreken:
