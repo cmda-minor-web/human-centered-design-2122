@@ -107,7 +107,7 @@ Donderdag begint de les met een Q&A. Tips en triks voor remote testen?
 Johan Huijkman van Q42 geeft samen met Roger Ravelli een gastcollege over toegankelijkheid.
 
 - [Video college les 4]()
-- [Slides les 4 Q&A](./slides/WD1920%20Les3%20-%20testen.pdf)
+- [Slides les 4 Q&A](./slides/WD1920%20Les4%20-%20Q&A.pdf)
 - [Slides College Jogan Huijkman en Roger Ravelli over toegankelijkheid]()
 
 
