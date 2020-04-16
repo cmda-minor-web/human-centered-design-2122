@@ -62,6 +62,7 @@ Marie van Driessche van de VPRO geeft een gastcollege over Inclusive Design.
 
 
 - [Video college les 2](https://bongo-eu.youseeu.com/spa/external-player/63060/d6b860866bf05eb20c7a69c7f3f8a7b5/)
+- [Slides les 2 - Q&A](./slides/WD1920%20Les2%20-%20Q&A.pdf)
 - [Slides College Marie van Driessche over Inclusie Design](./slides/morethanyouhear_contentdesign_MVD.pdf)
 
 
@@ -86,11 +87,12 @@ Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je we
 Woensdag krijg je een college over principles, user needs & testen.
 
 - [Video college les 3](https://bongo-eu.youseeu.com/spa/external-player/66619/12d7f5bb5c8c10430724c7cf261065cf/)
-- [Slides les 3 <del>Principles,</del> user needs & testen](https://bongo-eu.youseeu.com/spa/external-player/66619/12d7f5bb5c8c10430724c7cf261065cf/)
+- [Slides les 3 <del>Principles, user needs</del> testen](./slides/WD1920%20Les3%20-%20testen.pdf)
+
 
 Deze les gaan we dit artikel bespreken:
-- [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+- [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
+
 
 's Middags gaan we weer testen:
 
@@ -104,11 +106,18 @@ Deze les gaan we dit artikel bespreken:
 Donderdag begint de les met een Q&A. Tips en triks voor remote testen?
 Johan Huijkman van Q42 geeft samen met Roger Ravelli een gastcollege over toegankelijkheid.
 
-In de middag zijn er coachingsgesprekken in groepjes.
+- [Video college les 4]()
+- [Slides les 4 Q&A](./slides/WD1920%20Les3%20-%20testen.pdf)
+- [Slides College Jogan Huijkman en Roger Ravelli over toegankelijkheid]()
 
 
 Deze les gaan we dit artikel bespreken:
-- [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
+- [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
+-  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+
+
+
+In de middag zijn er coachingsgesprekken in groepjes.
 
 
 #### Vrijdag 17 april
@@ -126,7 +135,8 @@ In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laa
 #### Woensdag 22 april
 Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
 
-- [Les 3 college Web Design]()
+- [Video college les 5]()
+- [Slides les 5]()
 
 
 Deze les gaan we dit artikel bespreken:
@@ -146,14 +156,16 @@ Deze les gaan we dit artikel bespreken:
 Donderdag begint de les met een Q&A.
 Léonie Watson van W3C geeft een gastcollege over experimental features.
 
-In de middag zijn er weer coachingsgesprekken in groepjes.
 
-
+- [Video college les 6]()
+- [Slides les 6 - Q&A en gastcollege Leonie Watson]()
 
 
 Deze les gaan we dit artikel bespreken:
 - [Designing for Interaction Modes van Andrew Grimes](https://alistapart.com/article/designing-for-interaction-modes/)
 
+
+In de middag zijn er weer coachingsgesprekken in groepjes.
 
 #### Vrijdag 24 april
 Vrijdag zijn er feedbackgesprekken met Vasilis en Koop.
