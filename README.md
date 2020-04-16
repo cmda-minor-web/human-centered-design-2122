@@ -179,6 +179,12 @@ Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreke
 
 Lees hier de [criteria van opdracht 1](Opdracht1.md)
 
+#### Woensdag 6 mei
+
+#### Donderdag 7 mei
+
+#### Vrijdag 8 mei
+
 
 
 
