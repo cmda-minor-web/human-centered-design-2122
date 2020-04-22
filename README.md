@@ -135,7 +135,7 @@ In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laa
 #### Woensdag 22 april
 Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
 
-- [Video college les 5]()
+- [Video college les 5](https://bongo-eu.youseeu.com/spa/external-player/76571/8d8196d48207008c2721657694963761/)
 - [Slides les 5 testing](./slides/WD1920-Les5-testing.pdf)
 
 
