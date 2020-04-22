@@ -44,7 +44,7 @@ Deze week krijg je een college over _Exclusive Design Principles_. Deze Principl
 Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_. [Planning week 1](./slides/Week1.png)
 
 - [Video college Les 1](https://bongo-eu.youseeu.com/spa/external-player/62056/b828fbe7358f76c01e7d6cb2ebe6217a/)
-- [Slides les 1 - Introduktie en briefing opdracht 1](./slides/WD1920%20Les1%20-%20kickoff.pdf)
+- [Slides les 1 - Introduktie en briefing opdracht 1](./slides/WD1920-Les1-kickoff.pdf)
 - [Slides les 1 - College over Exclusive Design](./slides/exclusive-design.pdf)
 
 's Middags gaan we kennismaken met mensen met wie jullie gaan samenwerken. Wie zijn deze mensen? Wat vinden ze leuk of juist niet? En hoe bedienen ze een computer?
@@ -62,7 +62,7 @@ Marie van Driessche van de VPRO geeft een gastcollege over Inclusive Design.
 
 
 - [Video college les 2](https://bongo-eu.youseeu.com/spa/external-player/63060/d6b860866bf05eb20c7a69c7f3f8a7b5/)
-- [Slides les 2 - Q&A](./slides/WD1920%20Les2%20-%20Q&A.pdf)
+- [Slides les 2 - Q&A](./slides/WD19200-Les2-Q&A.pdf)
 - [Slides College Marie van Driessche over Inclusie Design](./slides/morethanyouhear_contentdesign_MVD.pdf)
 
 
@@ -87,7 +87,7 @@ Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je we
 Woensdag krijg je een college over principles, user needs & testen.
 
 - [Video college les 3](https://bongo-eu.youseeu.com/spa/external-player/66619/12d7f5bb5c8c10430724c7cf261065cf/)
-- [Slides les 3 <del>Principles, user needs</del> testen](./slides/WD1920%20Les3%20-%20testen.pdf)
+- [Slides les 3 <del>Principles, user needs</del> testen](./slides/WD1920-Les3-testen.pdf)
 
 
 Deze les gaan we dit artikel bespreken:
@@ -107,7 +107,7 @@ Donderdag begint de les met een Q&A. Tips en triks voor remote testen?
 Johan Huijkman van Q42 geeft samen met Roger Ravelli een gastcollege over toegankelijkheid.
 
 - [Video college les 4](https://bongo-eu.youseeu.com/spa/external-player/68303/0bfccc0813370fc97a892907ea58b6e1/)
-- [Slides les 4 Q&A](./slides/WD1920%20Les4%20-%20Q&A.pdf)
+- [Slides les 4 Q&A](./slides/WD1920-Les4-Q&A.pdf)
 - [Video college Johan Huijkman en Roger Ravelli over toegankelijkheid](https://bongo-eu.youseeu.com/spa/external-player/68696/c98549d94ac42f476c2353b722769198/)
 
 
@@ -136,7 +136,7 @@ In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laa
 Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
 
 - [Video college les 5]()
-- [Slides les 5]()
+- [Slides les 5 testing](./slides/WD1920-Les5-testing.pdf)
 
 
 Deze les gaan we dit artikel bespreken:
@@ -154,7 +154,7 @@ Deze les gaan we dit artikel bespreken:
 
 #### Donderdag 23 april
 Donderdag begint de les met een Q&A.
-Léonie Watson van W3C geeft een gastcollege over experimental features.
+<de>Léonie Watson van W3C geeft een gastcollege over experimental features.</del>
 
 
 - [Video college les 6]()
