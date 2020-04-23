@@ -157,8 +157,8 @@ Donderdag begint de les met een Q&A.
 <de>Léonie Watson van W3C geeft een gastcollege over experimental features.</del>
 
 
-- [Video college les 6]()
-- [Slides les 6 - Q&A en gastcollege Leonie Watson]()
+- [Video college les 6](https://bongo-eu.youseeu.com/spa/external-player/79045/07a37c88586e5d38319399a21b568b4a/)
+- [Slides les 6 - Q&A en Principles](./slides/WD1920-Les6-Q&A-en-principles.pdf)
 
 
 Deze les gaan we dit artikel bespreken:

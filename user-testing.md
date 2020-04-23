@@ -14,15 +14,20 @@ Exclusive principles
 - Add Nonsens
 
 
-### Usability Testen 1
+### Usability stappenplan
 
+1. Voorbereiden
+Test plan met taken en test-scenario's.
+wat wil je weten en welke setting is daarvoor nodig?
 
+2. Start de test
+- Zorg dat je het scherm ziet van de test-persoon.
+- Introduceer de test en schets wat de test-persoon kan verwachten.
+- Stel de test-persoon op zijn/haar gemak.
+- Vraag of de test-persoon hardop wil denken.
 
-### Usability Testen 2
-
-
-
-### Usability Testen 3
+3. General Questions
+- Leer de test-persoon kennen
 
 
 
@@ -46,6 +51,6 @@ het is handig als een test-persoon het hele desktop scherm deelt, want dan kun j
 
 Met een extra camera kun je 'over the shoulder' video beeld laten zien. Dan zal er een extra persoon aanwezig moeten zijn bij de test-persoon tijdens de test. Hiervoor kan met een mobiel worden ingelogd en dat beeld kan je delen.
 
-Om goed te zien wat de test-presoon doet kun je in Bongo de video stream een focus geven zodat dat scherm iets groter in beeld is.
+Om goed te zien wat de test-presoon doet kun je in Bongo de video stream een focus geven zodat dat scherm iets groter in beeld is. Dan kun je de test-persoon goed zien.
 
 Het is aan te raden dat tidens een test de designer die de test doet ook op de camera komt. Anderen kunnen observeren met hun camera en audio uit.
