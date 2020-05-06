@@ -29,7 +29,7 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 | <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <p>Prototype Testen met echte mensen |  Gastcollege Toegankelijkheid Johan Huijkman - Q42 en Roger Ravelli <p>Coachingsgesprekken | Feedbackgesprekken  |
 | <a href=#web-design---week-3>Week 3</a>  | College Web Design <p>Prototype testen met echte mensen | Gastcollege Experimental features van Léonie Watson - W3C <p>Coachingsgesprekken  | Feedbackgesprekken  |
 | Meivakantie |  |  |   |
-| <a href=#web-design---week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
+| <a href=#web-design---week-4>Week 4</a>  | Teampresentaties | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
 
 
 
@@ -177,13 +177,16 @@ Vrijdag zijn er feedbackgesprekken met Vasilis en Koop.
 
 Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. [Planning week 4](./slides/Week4.png)
 
-Lees hier de [criteria van opdracht 1](Opdracht1.md)
+Lees hier de [criteria van opdracht 1](Opdracht1.md#criteria)
 
 #### Woensdag 6 mei
+Teampresentaties. 
 
 #### Donderdag 7 mei
+Beoordelingsgesprekken
 
 #### Vrijdag 8 mei
+Beoordelingsgesprekken
 
 
 
