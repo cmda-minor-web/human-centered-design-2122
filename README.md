@@ -1,4 +1,4 @@
-# Web Design @cmda-minor-web 1920
+# Human Centered Design @cmda-minor-web 2021
 //Interactie ontwerpen: Rapid prototypen en testen met echte mensen
 
 Web Design gaat over het ontwerpen en testen van Interactie. Het voordeel van een Frontend Developer (en Web Designer) is dat die techniek begrijpt, kan toepassen én verstand heeft van UX en design. Als je Web technieken begrijpt kun je je ideeën snel prototypen en testen met echte gebruikers, in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
