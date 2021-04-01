@@ -1,9 +1,9 @@
 # Human Centered Design @cmda-minor-web 2021
 //Interactie ontwerpen: Rapid prototypen en testen met echte mensen
 
-Web Design gaat over het ontwerpen en testen van Interactie. Het voordeel van een Frontend Developer (en Web Designer) is dat die techniek begrijpt, kan toepassen én verstand heeft van UX en design. Als je Web technieken begrijpt kun je je ideeën snel prototypen en testen met echte gebruikers, in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
+Human Centred Design gaat over het ontwerpen en testen van Interactie. Het voordeel van een Frontend Developer (en Web Designer) is dat die techniek begrijpt, kan toepassen én verstand heeft van UX en design. Als je Web technieken begrijpt kun je je ideeën snel prototypen en testen met echte gebruikers, in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
 
-In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
+In het vak Human Centred Design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
 
 
 ## Opdracht 1 - Ontwerpen met en voor echte mensen
@@ -25,11 +25,11 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#web-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <p>Aannames testen met echte mensen| Gastcollege _Inclusive Design_ van Marie van Driessche - VPRO <p>Coachingsgesprekken | Goede vrijdag  |
-| <a href=#web-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <p>Prototype Testen met echte mensen |  Gastcollege Toegankelijkheid Johan Huijkman - Q42 en Roger Ravelli <p>Coachingsgesprekken | Feedbackgesprekken  |
-| <a href=#web-design---week-3>Week 3</a>  | College Web Design <p>Prototype testen met echte mensen | Gastcollege Experimental features van Léonie Watson - W3C <p>Coachingsgesprekken  | Feedbackgesprekken  |
+| <a href=#human-centred-design---week-1>Week 1</a>  | Introductie, College Exclusive design + Briefing opdracht 1 <p>Aannames testen met echte mensen| Gastcollege _Inclusive Design_ van Marie van Driessche - VPRO <p>Coachingsgesprekken | Goede vrijdag  |
+| <a href=#human-centred-design---week-2>Week 2</a>  | College Principles, User Needs & Testen <p>Prototype Testen met echte mensen |  Gastcollege Toegankelijkheid Johan Huijkman - Q42 en Roger Ravelli <p>Coachingsgesprekken | Feedbackgesprekken  |
+| <a href=#human-centred-design---week-3>Week 3</a>  | College Web Design <p>Prototype testen met echte mensen | Gastcollege Experimental features van Léonie Watson - W3C <p>Coachingsgesprekken  | Feedbackgesprekken  |
 | Meivakantie |  |  |   |
-| <a href=#web-design---week-4>Week 4</a>  | Teampresentaties | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
+| <a href=#human-centred-design---week-4>Week 4</a>  | Teampresentaties | Beoordelingsgesprekken  | Beoordelingsgesprekken  |
 
 
 
@@ -43,9 +43,7 @@ Deze week krijg je een college over _Exclusive Design Principles_. Deze Principl
 #### Woensdag 8 april
 Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_. [Planning week 1](./slides/Week1.png)
 
-- [Video college Les 1](https://bongo-eu.youseeu.com/spa/external-player/62056/b828fbe7358f76c01e7d6cb2ebe6217a/)
-- [Slides les 1 - Introduktie en briefing opdracht 1](./slides/WD1920-Les1-kickoff.pdf)
-- [Slides les 1 - College over Exclusive Design](./slides/exclusive-design.pdf)
+
 
 's Middags gaan we kennismaken met mensen met wie jullie gaan samenwerken. Wie zijn deze mensen? Wat vinden ze leuk of juist niet? En hoe bedienen ze een computer?
 
@@ -60,10 +58,6 @@ Woensdag is de eerste les van het vak Web Design. Je krijgt een intro college ov
 Donderdag begint de les met een Q&A. Hoe gingen de gesprekken jullie mensen? Hoe kun je testen nu we remote werken? Bedenk alvast vragen en opmerkingen om te bespreken.
 Marie van Driessche van de VPRO geeft een gastcollege over Inclusive Design.
 
-
-- [Video college les 2](https://bongo-eu.youseeu.com/spa/external-player/63060/d6b860866bf05eb20c7a69c7f3f8a7b5/)
-- [Slides les 2 - Q&A](./slides/WD19200-Les2-Q&A.pdf)
-- [Slides College Marie van Driessche over Inclusie Design](./slides/morethanyouhear_contentdesign_MVD.pdf)
 
 
 Deze les gaan we onderstaande artikelen bespreken:
@@ -86,8 +80,6 @@ Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je we
 #### Woensdag 15 april
 Woensdag krijg je een college over principles, user needs & testen.
 
-- [Video college les 3](https://bongo-eu.youseeu.com/spa/external-player/66619/12d7f5bb5c8c10430724c7cf261065cf/)
-- [Slides les 3 <del>Principles, user needs</del> testen](./slides/WD1920-Les3-testen.pdf)
 
 
 Deze les gaan we dit artikel bespreken:
@@ -106,9 +98,7 @@ Deze les gaan we dit artikel bespreken:
 Donderdag begint de les met een Q&A. Tips en triks voor remote testen?
 Johan Huijkman van Q42 geeft samen met Roger Ravelli een gastcollege over toegankelijkheid.
 
-- [Video college les 4](https://bongo-eu.youseeu.com/spa/external-player/68303/0bfccc0813370fc97a892907ea58b6e1/)
-- [Slides les 4 Q&A](./slides/WD1920-Les4-Q&A.pdf)
-- [Video college Johan Huijkman en Roger Ravelli over toegankelijkheid](https://bongo-eu.youseeu.com/spa/external-player/68696/c98549d94ac42f476c2353b722769198/)
+
 
 
 Deze les gaan we dit artikel bespreken:
@@ -157,8 +147,6 @@ Donderdag begint de les met een Q&A.
 <de>Léonie Watson van W3C geeft een gastcollege over experimental features.</del>
 
 
-- [Video college les 6](https://bongo-eu.youseeu.com/spa/external-player/79045/07a37c88586e5d38319399a21b568b4a/)
-- [Slides les 6 - Q&A en Principles](./slides/WD1920-Les6-Q&A-en-principles.pdf)
 
 
 Deze les gaan we dit artikel bespreken:
