@@ -34,7 +34,7 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
 | [Week 1](#week-1)  | Intro, College inclusive design + Testen | Gastcollege + Testen | ~~Feedbackgesprekken~~ |
-| [Week 2](#week-2)  | College + Testen  | Gastcollege + Testen | Feedbackgesprekken  |
+| [Week 2](#week-2)  | College over testen + Testen  | Gastcollege + Testen | Feedbackgesprekken  |
 | [Week 3](#week-3)  | College + Testen  |  Gastcollege + Testen | Feedbackgesprekken  |
 | [Week 4](#week-4)  | Presentaties + Beoordelingsgesprekken | Beoordelingsgesprekken | Beoordelingsgesprekken + Weekly Nerd |
 
@@ -164,7 +164,6 @@ Vrijdag zijn er coachgesprekken.
 
 Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
 
-Lees hier de [criteria van opdracht 1](Opdracht1.md#criteria)
 
 #### Woensdag 28 april
 Teampresentaties en beoordelingsgesprekken. 
