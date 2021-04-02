@@ -1,4 +1,4 @@
-# Web design
+# Human Centred Design
 ## Opdracht 1 - Ontwerpen met en voor echte mensen.
 
 
