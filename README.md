@@ -52,10 +52,7 @@ Daarna prototypen en testen
 - 15:00 Groep Eric
 
 #### Donderdag 8 april
-Donderdag begint de les met een gastcollege. 
-
-Deze les gaan we onderstaande artikelen bespreken:
-- [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
+Donderdag begint de les met een gastcollege. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
 
 Daarna prototypen en testen
 
