@@ -43,115 +43,80 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 ### Week 1
 Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
-
 #### Woensdag 7 april
 Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
 
 Daarna prototypen en testen
 
-- test Team 
-- test Team 
-- test Team 
+- 14:00 Groep Darice 
+- 15:00 Groep Eric
 
 #### Donderdag 8 april
 Donderdag begint de les met een gastcollege. 
 
 Daarna prototypen en testen
 
-- test Team 
-- test Team 
-- test Team 
+- 10:30 Groep Roger 
+- 16:30 Groep Marijn
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
 
 
-
 #### Vrijdag 9 april
 Deze dag is voor Real-Time web...
+
 
 ### Week 2
 Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? 
 
-
-
 #### Woensdag 14 april
 Woensdag krijg je een college over testen.
 
-Daarna prototypen en testen
+Voor deze les moet je dit artikel lezen:
+-  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
 
-- test Team 
-- test Team 
-- test Team 
+Daarna voor de tweede keer prototypen en testen
+
+- 14:00 Groep Darice 
+- 15:00 Groep Eric
+
+
+#### Donderdag 15 april
+Donderdag begint de les met een gastcollege van Marie van Driessche. 
 
 Deze les gaan we dit artikel bespreken:
 - [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 
+Daarna voor de tweede keer prototypen en testen
 
-
-#### Donderdag 15 april
-Donderdag begint de les met een gastcollege. 
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-
-Deze les gaan we dit artikel bespreken:
-- [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
-
+- 10:30 Groep Roger 
+- 16:30 Groep Marijn
 
 #### Vrijdag 16 april
-Vrijdag zijn er coachgesprekken.
-
-
+Vrijdag zijn er coachgesprekken in teams.
 
 
 
 
 ### Week 3
-In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laatste sessie met je mens. 
-
+In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens. 
 
 #### Woensdag 21 april
-Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
+Woensdag beginnen we met een college. 
 
-Daarna prototypen en testen
+Daarna gaan we voord de laatste keer prototypen en testen
 
-- test Team 
-- test Team 
-- test Team 
-
-
-Deze les gaan we dit artikel bespreken:
-- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
-
-
-
+- 14:00 Groep Darice 
+- 15:00 Groep Eric
 
 #### Donderdag 22 april
-Donderdag begint de les met een gastcollege.
+Donderdag begint de les met een gastcollege van Johan Huijkman.
 
+Daarna gaan we voord de laatste keer prototypen en testen
 
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-Deze les gaan we dit artikel bespreken:
-- [Designing for Interaction Modes van Andrew Grimes](https://alistapart.com/article/designing-for-interaction-modes/)
-
+- 10:30 Groep Roger 
+- 16:30 Groep Marijn
 
 
 #### Vrijdag 23 april
