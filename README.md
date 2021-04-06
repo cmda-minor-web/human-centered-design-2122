@@ -48,7 +48,7 @@ Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro
 
 Daarna prototypen en testen
 
-- 14:00 Groep Darice 
+- 14:00 Groep <span style="color:blue">Darice</span>
 - 15:00 Groep Eric
 
 #### Donderdag 8 april
