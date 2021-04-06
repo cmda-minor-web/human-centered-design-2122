@@ -54,13 +54,13 @@ Daarna prototypen en testen
 #### Donderdag 8 april
 Donderdag begint de les met een gastcollege. 
 
+Deze les gaan we onderstaande artikelen bespreken:
+- [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
+
 Daarna prototypen en testen
 
 - 10:30 Groep Roger 
 - 16:30 Groep Marijn
-
-Deze les gaan we onderstaande artikelen bespreken:
-- [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
 
 
 #### Vrijdag 9 april
