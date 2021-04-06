@@ -4,10 +4,9 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 
 ## Doel van deze opdracht
 
-Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te leren testen. Test of jouw gebruiker, jouw 'mens' je demo goed kan bedienen. Kloppen je aannames? Door te prototypen en testen met echte mensen leer je hoe je je ontwerp kan verbeteren.
+Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te leren testen. Test of jouw gebruiker, jouw 'mens', je demo goed kan bedienen. Kloppen je aannames? Door te prototypen en testen met echte mensen leer je hoe je je ontwerp kan verbeteren.
 
 [Rubric](https://docs.google.com/spreadsheets/d/1no32c9YyAP78VMcqfA5i5at2OrxP9ce1d8dVGnii4Vs/)
-
 
 ## Uitleg
 
@@ -20,7 +19,6 @@ Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Princ
 - Prioritise Identity
 - Add Nonsense
 
-
 ### Darice da Cuba
 
 Darice is een frontend-developer, met een focus op toegankelijkheid en inclusiviteit.  Daar spreekt ze ook geregeld over op congressen en meetups. De afgelopen jaren heeft ze al een paar keer groepen studenten gecoacht bij vergelijkbare opdrachten. Dit keer doet ze voor het eerst mee met onze minor. Darice is op latere leeftijd doof geworden. Dit betekent dat ze wel een herinnering heeft aan geluid. Bij de gesprekken zal een *typtolk* aanwezig zijn, geen gebarentolk.
@@ -32,12 +30,12 @@ Darice is een frontend-developer, met een focus op toegankelijkheid en inclusivi
 
 <details>
 <summary>Hoe werken closed captions voor Darice?</summary>
-<p>Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen vormgeven zodat alle spanning en sensatie uit het geluid niet verloren gaat?
+<p>Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen ontwerpen zodat alle spanning en sensatie uit het geluid niet verloren gaat?
 </details>
 
 ### Eric Groot Kormelink
 
-Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probeert om mensen met beperkingen samen te brengen met ontwerpers en makers. Eric zelf zit in een electrische rolstoel. Hij heeft niet de beschikking over de fijne motoriek. Hij heeft ooit met studenten van de minor Makers Lab gewerkt. Eric wilde zijn hele leven al getaar spelen, maar zijn handen staan daar niet goed voor. Zijn team studenten heeft toen een werkend prototype gemaakt van een apparaat waarmee hij gitaar kan spelen. 
+Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probeert om mensen met beperkingen samen te brengen met ontwerpers en makers. Eric zelf zit in een electrische rolstoel. Hij heeft niet de beschikking over de fijne motoriek. Hij heeft ooit met studenten van de minor Makers Lab gewerkt. Eric wilde zijn hele leven al getaar spelen, maar zijn handen staan daar niet goed voor. Zijn team studenten heeft toen een werkend prototype gemaakt van een apparaat waarmee hij gitaar kan spelen.
 
 <details>
 <summary>*Copypasten* met spraak</summary>
@@ -51,7 +49,7 @@ Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probee
 
 ### Marijn Meijles
 
-Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht. 
+Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht.
 Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
 
 <details>
@@ -82,7 +80,6 @@ Roger is sinds een jaar of tien langzaam blind aan het worden. Inmiddels is hij 
 <summary>Onzichtbare datavisualisatie</summary>
 <p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Roger Ravelli?
 </details>
-
 
 ## Criteria
 
