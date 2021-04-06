@@ -75,14 +75,13 @@ Daarna voor de tweede keer prototypen en testen
 - 14:00 Groep Darice 
 - 15:00 Groep Eric
 
-
 #### Donderdag 15 april
 Donderdag begint de les met een gastcollege van Marie van Driessche. 
 
 Daarna voor de tweede keer prototypen en testen
 
 - 10:30 Groep Roger 
-- 16:30 Groep Marijn
+- 14:00 Groep Marijn
 
 #### Vrijdag 16 april
 Vrijdag zijn er coachgesprekken in teams.
@@ -107,7 +106,7 @@ Donderdag begint de les met een gastcollege van Johan Huijkman.
 Daarna gaan we voord de laatste keer prototypen en testen
 
 - 10:30 Groep Roger 
-- 16:30 Groep Marijn
+- 14:00 Groep Marijn
 
 
 #### Vrijdag 23 april
