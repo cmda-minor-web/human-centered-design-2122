@@ -71,10 +71,7 @@ Deze dag is voor Real-Time web...
 Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? 
 
 #### Woensdag 14 april
-Woensdag krijg je een college over testen.
-
-Voor deze les moet je dit artikel lezen:
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+Woensdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) lezen.
 
 Daarna voor de tweede keer prototypen en testen
 
@@ -84,9 +81,6 @@ Daarna voor de tweede keer prototypen en testen
 
 #### Donderdag 15 april
 Donderdag begint de les met een gastcollege van Marie van Driessche. 
-
-Deze les gaan we dit artikel bespreken:
-- [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 
 Daarna voor de tweede keer prototypen en testen
 
@@ -103,7 +97,7 @@ Vrijdag zijn er coachgesprekken in teams.
 In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens. 
 
 #### Woensdag 21 april
-Woensdag beginnen we met een college. 
+Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/).
 
 Daarna gaan we voord de laatste keer prototypen en testen
 
