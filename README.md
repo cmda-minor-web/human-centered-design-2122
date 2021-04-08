@@ -81,7 +81,7 @@ Donderdag begint de les met een gastcollege van Marie van Driessche.
 Daarna voor de tweede keer prototypen en testen
 
 - 10:30 Groep Roger 
-- 14:00 Groep Marijn
+- 16:00 Groep Marijn
 
 #### Vrijdag 16 april
 Vrijdag zijn er coachgesprekken in teams.
@@ -106,7 +106,7 @@ Donderdag begint de les met een gastcollege van Johan Huijkman.
 Daarna gaan we voord de laatste keer prototypen en testen
 
 - 10:30 Groep Roger 
-- 14:00 Groep Marijn
+- 16:00 Groep Marijn
 
 
 #### Vrijdag 23 april
