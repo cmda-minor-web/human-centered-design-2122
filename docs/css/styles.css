@@ -38,7 +38,8 @@ h2 {
   margin-top: 1.5em;
 }
 h3 {
-  font-size: 2em;
+  font-size: 1.414em;
+  line-height: 1.2;
 }
 p{
   max-width: 30em;
@@ -89,6 +90,7 @@ ul.gallery{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
   grid-gap: 3rem;
+  list-style: none;
 }
 ul.gallery li{
   border-bottom: var(--course) solid 0.2rem;
@@ -97,6 +99,7 @@ ul.gallery li{
 }
 ul.gallery img{
   width: 100%;
+  border: 1px solid white;
 }
 ul.gallery li h3{
  margin-top: 0;
