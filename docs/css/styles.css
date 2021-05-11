@@ -95,7 +95,7 @@ ul.gallery{
 ul.gallery li{
   border-bottom: var(--course) solid 0.2rem;
   padding-bottom: 2rem;
-  vertical-align: top;
+  position: relative;
 }
 ul.gallery img{
   width: 100%;
@@ -103,6 +103,18 @@ ul.gallery img{
 }
 ul.gallery li h3{
  margin-top: 0;
+}
+.gallery a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.gallery a:hover::before {
+  background-color: var(--course);
+  opacity: .1;
 }
 
 
