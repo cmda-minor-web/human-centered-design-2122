@@ -19,19 +19,6 @@ Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Princ
 - Prioritise Identity
 - Add Nonsense
 
-### Darice da Cuba
-
-Darice is een frontend-developer, met een focus op toegankelijkheid en inclusiviteit.  Daar spreekt ze ook geregeld over op congressen en meetups. De afgelopen jaren heeft ze al een paar keer groepen studenten gecoacht bij vergelijkbare opdrachten. Dit keer doet ze voor het eerst mee met onze minor. Darice is op latere leeftijd doof geworden. Dit betekent dat ze wel een herinnering heeft aan geluid. Bij de gesprekken zal een *typtolk* aanwezig zijn, geen gebarentolk.
-
-<details>
-<summary>Hoe werkt een podcast voor Darice?</summary>
-<p>In een transcriptie gaat natuurlijk nogal wat nuance verloren. Maak een oplossing die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren. Bonus als je er interactie aan toe weet te voegen.
-</details>
-
-<details>
-<summary>Hoe werken closed captions voor Darice?</summary>
-<p>Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen ontwerpen zodat alle spanning en sensatie uit het geluid niet verloren gaat?
-</details>
 
 ### Eric Groot Kormelink
 
@@ -62,24 +49,35 @@ Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan 
 <p>Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
 </details>
 
-### Roger Ravelli
 
-Roger is sinds een jaar of tien langzaam blind aan het worden. Inmiddels is hij op het punt beland dat hij de overstap aan het maken is van *inzoom-software* naar *screenreaders*. Tot voor kort was hij een specialist op het gebied van duurzame energie. Maar omdat hij geen technische tekeningen, ingewikkelde tabellen, of grafieken meer kan lezen, houdt dat op.
+#### Marie van Driessche
+
+Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
 <details>
-<summary>Hoe werkt een grafiek als je hem niet kunt zien?</summary>
-<p>Een goede grafiek kan in één oogopslag een verhaal vertellen. Maar hoe vertel je dat verhaal als er geen oogopslag is?
+<summary>Hoe werkt een podcast voor Marie?</summary>
+<p>In een transcriptie gaat natuurlijk nogal wat nuance verloren. Maak een oplossing die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren.
 </details>
 
 <details>
-<summary>Hoe werkt een tabel met data als je hem niet kunt zien?</summary>
-<p>Voor Roger bevatten tabellen belangrijke informatie. Hij moet ze kunnen begrijpen. Een HTML-tabel is theoretisch toegankelijk te maken door de juiste attributen op te zetten. Maar hoe je een ingewikkelde tabel goed en liefst ook prettig bruikbaar maakt, dat is nog niet bekend.
+<summary>Hoe werken closed captions voor Marie?</summary>
+<p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions
+</details>
+
+#### Larissa Klaassen
+
+Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze is laatst tweede geworden op het WK baanwielrennen.
+
+<details>
+<summary>Topsport-rooster begrijpen</summary>
+<p>Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.
 </details>
 
 <details>
 <summary>Onzichtbare datavisualisatie</summary>
-<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Roger Ravelli?
+<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Larissa Klaassen?
 </details>
+
 
 ## Criteria
 
