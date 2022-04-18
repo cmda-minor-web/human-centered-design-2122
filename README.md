@@ -41,10 +41,10 @@ En hoe bedient deze persoon een computer?
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1](#week-1)  | Kickoff, College inclusive design + Testen | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
+| [Week 1](#week-1-kickoff-en-aannames-testen)  | Kickoff, College inclusive design + Testen | College + Testen | Feedbackgesprekken |
+| [Week 2](#week-2-protoypen-en-testen)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
 | ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
+| [Week 3](#week-3-prototypen-testen-en-reflecteren)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
 
 
 ## Week 1 - Kickoff en aannames testen 
@@ -95,7 +95,7 @@ Donderdag krijg je een college over testen. Voor deze les moet je het artikel [1
 Feedbackgesprekken in groepen.
 
 
-## Week 3 - Prototypen en testen 
+## Week 3 - Prototypen, testen en reflecteren
 
 In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
 
@@ -119,7 +119,10 @@ Daarna voor de derde keer prototypen en testen, met
 
 ### Vrijdag 13 mei
 
-Beoordelingsgesprekken
+Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
+
+Lees hier de [criteria van opdracht 1](Opdracht1.md#criteria)
+
 
 
 
