@@ -58,7 +58,6 @@ Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro
 Daarna prototypen en testen, met
 
 - 14:00 Groep Marie
-- 14:00 Groep Roger
 
 ### Donderdag 21 april
 
@@ -66,8 +65,9 @@ Donderdag begint de les met een college over testen. Deze les gaan we het artike
 
 Daarna prototypen en testen, met
 
-- 14:30 Groep Eric
-- 16:30 Groep Marijn
+- 14:00 Groep Larissa
+- 16:00 Groep Eric
+- 17:00 Groep Marijn
 
 
 ### Vrijdag 22 april
@@ -85,10 +85,10 @@ Donderdag krijg je een college over testen. Voor deze les moet je het artikel [1
 
 's Middags ga je voor de tweede keer prototypen en testen, met
 
-- 14:00 Groep Darice
-- 15:00 Groep Roger
-- 15:00 Groep Eric
-- 16:00 Groep Marijn
+- 14:00 Groep Marie
+- 15:00 Groep Larissa
+- 16:00 Groep Eric
+- 17:00 Groep Marijn
 
 ### Vrijdag 29 april
 
@@ -106,7 +106,6 @@ Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [
 Daarna voor de derde keer prototypen en testen, met
 
 - 14:00 Groep Marie
-- 15:00 Groep Roger
 
 ### Donderdag 12 mei
 
@@ -114,8 +113,9 @@ Donderdag gaan we bevindingen van de tests bespreken.
 
 Daarna voor de derde keer prototypen en testen, met
 
-- 14:00 Groep Eric
-- 16:00 Groep Marijn
+- 14:00 Groep Larissa
+- 16:00 Groep Eric
+- 17:00 Groep Marijn
 
 ### Vrijdag 13 mei
 
