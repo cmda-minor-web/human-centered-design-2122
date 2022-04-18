@@ -81,9 +81,9 @@ Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je we
 
 ### Donderdag 28 april
 
-Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) lezen.
+Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) en [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) lezen.
 
-Daarna voor de tweede keer prototypen en testen
+'s Middags ga je voor de tweede keer testen
 
 - 14:00 Groep Darice
 - 15:00 Groep Roger
@@ -101,18 +101,16 @@ In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de la
 
 ### Woensdag 11 mei
 
-Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/).
+Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
 
-Daarna gaan we voord de laatste keer prototypen en testen
+Daarna voor de derde keer prototypen en testen
 
 - 14:00 Groep Marie
 - 15:00 Groep Roger
 
 ### Donderdag 12 mei
 
-Donderdag begint de les met een gastcollege van Johan Huijkman.
-
-Daarna gaan we voor de laatste keer prototypen en testen
+Donderdag gaan we bevindingen van de tests bespreken en gaan voor de derde keer prototypen en testen
 
 - 14:00 Groep Eric
 - 16:00 Groep Marijn
