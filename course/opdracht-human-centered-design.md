@@ -6,7 +6,7 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 
 Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te leren testen. Test of jouw gebruiker, jouw 'mens', je ontwerp goed kan bedienen. Kloppen je aannames? Door te prototypen en testen met echte mensen leer je hoe je je ontwerp kan verbeteren.
 
-[Rubric](https://docs.google.com/spreadsheets/d/1no32c9YyAP78VMcqfA5i5at2OrxP9ce1d8dVGnii4Vs/)
+[Rubric](rubric-human-centered-design.md)
 
 ## Uitleg
 
