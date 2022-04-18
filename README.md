@@ -49,13 +49,13 @@ En hoe bedient deze persoon een computer?
 
 ## Week 1 - Kickoff en aannames testen 
 
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en dodnerdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
+Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
 ### Woensdag 20 april
 
 Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
 
-Daarna prototypen voorbereiden en testen
+Daarna prototypen en testen, met
 
 - 14:00 Groep Marie
 - 14:00 Groep Roger
@@ -64,7 +64,7 @@ Daarna prototypen voorbereiden en testen
 
 Donderdag begint de les met een college over testen. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
 
-Daarna prototypen en testen
+Daarna prototypen en testen, met
 
 - 14:30 Groep Eric
 - 16:30 Groep Marijn
@@ -83,7 +83,7 @@ Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je we
 
 Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) en [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) lezen.
 
-'s Middags ga je voor de tweede keer testen
+'s Middags ga je voor de tweede keer prototypen en testen, met
 
 - 14:00 Groep Darice
 - 15:00 Groep Roger
@@ -103,14 +103,16 @@ In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de la
 
 Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
 
-Daarna voor de derde keer prototypen en testen
+Daarna voor de derde keer prototypen en testen, met
 
 - 14:00 Groep Marie
 - 15:00 Groep Roger
 
 ### Donderdag 12 mei
 
-Donderdag gaan we bevindingen van de tests bespreken en gaan voor de derde keer prototypen en testen
+Donderdag gaan we bevindingen van de tests bespreken. 
+
+Daarna voor de derde keer prototypen en testen, met
 
 - 14:00 Groep Eric
 - 16:00 Groep Marijn
