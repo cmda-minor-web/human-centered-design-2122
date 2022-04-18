@@ -6,8 +6,6 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 
 Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te leren testen. Test of jouw gebruiker, jouw 'mens', je ontwerp goed kan bedienen. Kloppen je aannames? Door te prototypen en testen met echte mensen leer je hoe je je ontwerp kan verbeteren.
 
-[Rubric](rubric-human-centered-design.md)
-
 ## Uitleg
 
 Je wordt ingedeeld in een groep die gaat ontwerpen voor 1 persoon. Niet een doelgroep, maar een persoon.
@@ -86,3 +84,5 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 - Test je ideeen en ontwerp 3 keer met de test-persoon. Verbeter je ontwerp op basis van de feedback die je hebt gekregen uit de tests. Documenteer de testen goed. 
 - Leg de _exclusive design principles_ uit en beschrijf hoe je die hebt toegepast. 
 - Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
+
+Lees hier debbeoordelingscriteria in de [Rubric](rubric-human-centered-design.md)
