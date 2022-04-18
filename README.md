@@ -41,104 +41,87 @@ En hoe bedient deze persoon een computer?
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1](#week-1)  | Intro, College inclusive design + Testen | Gastcollege + Testen | ~~Feedbackgesprekken~~ |
-| [Week 2](#week-2)  | College over testen + Testen  | Gastcollege + Testen | Feedbackgesprekken  |
-| [Week 3](#week-3)  | College + Testen  |  Gastcollege + Testen | Feedbackgesprekken  |
-| [Week 4](#week-4)  | Presentaties + Beoordelingsgesprekken | Beoordelingsgesprekken | Beoordelingsgesprekken + Weekly Nerd |
+| [Week 1](#week-1)  | Intro, College inclusive design + Testen | College + Testen | Feedbackgesprekken |
+| [Week 2](#week-2)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
+| ~~Meivakantie~~ |   |  |   |
+| [Week 3](#week-3)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
+
 
 ### Week 1
 
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
+Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en dodnerdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
-#### Woensdag 7 april
+#### Woensdag 20 april
 
 Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
 
+Daarna prototypen voorbereiden en testen
+
+- 14:00 Groep Marie
+- 14:00 Groep Roger
+
+#### Donderdag 21 april
+
+Donderdag begint de les met een college over testen. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
+
 Daarna prototypen en testen
 
-- 14:00 Groep Darice
-- 15:00 Groep Eric
-
-#### Donderdag 8 april
-
-Donderdag begint de les met een gastcollege. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
-
-Daarna prototypen en testen
-
-- 10:30 Groep Roger
+- 14:30 Groep Eric
 - 16:30 Groep Marijn
 
-#### Vrijdag 9 april
 
-Deze dag is voor Real-Time web...
+#### Vrijdag 22 april
+
+Feedbackgesprekken in groepen.
+
 
 ### Week 2
 
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten?
+Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Woensdag is het koningsdag, dan is er geen les.
 
-#### Woensdag 14 april
+#### Donderdag 28 april
 
-Woensdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) lezen.
+Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) lezen.
 
 Daarna voor de tweede keer prototypen en testen
 
 - 14:00 Groep Darice
+- 15:00 Groep Roger
 - 15:00 Groep Eric
-
-#### Donderdag 15 april
-
-Donderdag begint de les met een gastcollege van Marie van Driessche. 
-
-Daarna voor de tweede keer prototypen en testen
-
-- 10:30 Groep Roger
 - 16:00 Groep Marijn
 
-#### Vrijdag 16 april
+#### Vrijdag 29 april
 
-Vrijdag zijn er coachgesprekken in teams.
+Feedbackgesprekken in groepen.
+
 
 ### Week 3
 
 In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
 
-#### Woensdag 21 april
+#### Woensdag 11 mei
 
 Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/).
 
 Daarna gaan we voord de laatste keer prototypen en testen
 
-- 14:00 Groep Darice
-- 15:00 Groep Eric
+- 14:00 Groep Marie
+- 15:00 Groep Roger
 
-#### Donderdag 22 april
+#### Donderdag 12 mei
 
 Donderdag begint de les met een gastcollege van Johan Huijkman.
 
-Daarna gaan we voord de laatste keer prototypen en testen
+Daarna gaan we voor de laatste keer prototypen en testen
 
-- 10:30 Groep Roger
+- 14:00 Groep Eric
 - 16:00 Groep Marijn
 
-#### Vrijdag 23 april
-
-Vrijdag zijn er coachgesprekken.
-
-### Week 4
-
-Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak.
-
-#### Woensdag 28 april
-
-Teampresentaties en beoordelingsgesprekken.
-
-#### Donderdag 29 april
+#### Vrijdag 13 mei
 
 Beoordelingsgesprekken
 
-#### Vrijdag 30 april
 
-Beoordelingsgesprekken + Weekly Nerd
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
