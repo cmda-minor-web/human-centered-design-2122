@@ -47,11 +47,11 @@ En hoe bedient deze persoon een computer?
 | [Week 3](#week-3)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
 
 
-### Week 1
+## Week 1
 
 Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en dodnerdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
-#### Woensdag 20 april
+### Woensdag 20 april
 
 Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
 
@@ -60,7 +60,7 @@ Daarna prototypen voorbereiden en testen
 - 14:00 Groep Marie
 - 14:00 Groep Roger
 
-#### Donderdag 21 april
+### Donderdag 21 april
 
 Donderdag begint de les met een college over testen. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
 
@@ -70,16 +70,16 @@ Daarna prototypen en testen
 - 16:30 Groep Marijn
 
 
-#### Vrijdag 22 april
+### Vrijdag 22 april
 
 Feedbackgesprekken in groepen.
 
 
-### Week 2
+## Week 2
 
 Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Woensdag is het koningsdag, dan is er geen les.
 
-#### Donderdag 28 april
+### Donderdag 28 april
 
 Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) lezen.
 
@@ -90,16 +90,16 @@ Daarna voor de tweede keer prototypen en testen
 - 15:00 Groep Eric
 - 16:00 Groep Marijn
 
-#### Vrijdag 29 april
+### Vrijdag 29 april
 
 Feedbackgesprekken in groepen.
 
 
-### Week 3
+## Week 3
 
 In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
 
-#### Woensdag 11 mei
+### Woensdag 11 mei
 
 Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/).
 
@@ -108,7 +108,7 @@ Daarna gaan we voord de laatste keer prototypen en testen
 - 14:00 Groep Marie
 - 15:00 Groep Roger
 
-#### Donderdag 12 mei
+### Donderdag 12 mei
 
 Donderdag begint de les met een gastcollege van Johan Huijkman.
 
@@ -117,7 +117,7 @@ Daarna gaan we voor de laatste keer prototypen en testen
 - 14:00 Groep Eric
 - 16:00 Groep Marijn
 
-#### Vrijdag 13 mei
+### Vrijdag 13 mei
 
 Beoordelingsgesprekken
 
