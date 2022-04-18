@@ -27,7 +27,7 @@ Wie is deze persoon dan voor wie je dit gaat maken?
 Wat vindt deze persoon leuk of juist niet? 
 En hoe bedient deze persoon een computer?
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/Opdracht.md)
+- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
 
 ### Leerdoelen
 
@@ -35,7 +35,7 @@ En hoe bedient deze persoon een computer?
 - _User needs begrijpen en gebruiken in je ontwerp._
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
 
-[Rubric](https://docs.google.com/spreadsheets/d/1no32c9YyAP78VMcqfA5i5at2OrxP9ce1d8dVGnii4Vs/)
+[Rubric](course/rubric-human-centered-design.md)
 
 ## Planning & programma
 
