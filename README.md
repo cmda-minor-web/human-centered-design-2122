@@ -41,13 +41,13 @@ En hoe bedient deze persoon een computer?
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1](#week-1)  | Intro, College inclusive design + Testen | College + Testen | Feedbackgesprekken |
+| [Week 1](#week-1)  | Kickoff, College inclusive design + Testen | College + Testen | Feedbackgesprekken |
 | [Week 2](#week-2)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
 | ~~Meivakantie~~ |   |  |   |
 | [Week 3](#week-3)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
 
 
-## Week 1
+## Week 1 - Kickoff en aannames testen 
 
 Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en dodnerdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
@@ -75,7 +75,7 @@ Daarna prototypen en testen
 Feedbackgesprekken in groepen.
 
 
-## Week 2
+## Week 2 - Prototypen en testen 
 
 Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Woensdag is het koningsdag, dan is er geen les.
 
@@ -95,7 +95,7 @@ Daarna voor de tweede keer prototypen en testen
 Feedbackgesprekken in groepen.
 
 
-## Week 3
+## Week 3 - Prototypen en testen 
 
 In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
 
