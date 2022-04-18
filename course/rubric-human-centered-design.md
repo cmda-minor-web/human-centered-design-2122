@@ -16,5 +16,5 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 ## Criteria
 
 | Leerdoelen  | 	Criteria  |  Voldoende | Goed |
-|---|---|---|
+|---|---|---|---|
 | Leren hoe je (design) principles kan toepassen in een ontwerp | Student kan uitleggen wat de Exclusive Design Principles zijn. | De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. | | 
