@@ -85,4 +85,4 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 - Leg de _exclusive design principles_ uit en beschrijf hoe je die hebt toegepast. 
 - Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
 
-Lees de beoordelingscriteria voor deze opdracht in de [Rubric](rubric-human-centered-design.md)
+Lees de beoordelingscriteria voor deze opdracht in de [Rubric](https://github.com/cmda-minor-web/human-centered-design-2122/blob/main/README.md#rubric)
