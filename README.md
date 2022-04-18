@@ -86,7 +86,7 @@ Donderdag krijg je een college over testen. Voor deze les moet je het artikel [1
 's Middags ga je voor de tweede keer prototypen en testen, met
 
 - 14:00 Groep Marie
-- 15:00 Groep Larissa
+- 14:00 Groep Larissa
 - 16:00 Groep Eric
 - 17:00 Groep Marijn
 
