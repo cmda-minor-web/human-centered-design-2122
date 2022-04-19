@@ -1,4 +1,4 @@
-# Human Centered Design @cmda-minor-web 2021
+# Human Centered Design @cmda-minor-web 2122
 
 Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
 
