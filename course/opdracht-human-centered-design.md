@@ -48,7 +48,7 @@ Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan 
 </details>
 
 
-#### Marie van Driessche
+### Marie van Driessche
 
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
@@ -62,7 +62,7 @@ Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als D
 <p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions
 </details>
 
-#### Larissa Klaassen
+### Larissa Klaassen
 
 Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze is laatst tweede geworden op het WK baanwielrennen.
 
