@@ -64,7 +64,7 @@ Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als D
 
 ### Larissa Klaassen
 
-Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze is laatst tweede geworden op het WK baanwielrennen.
+Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze heeft laatst een gouden medaille gewonnen op de olympische spelen.
 
 <details>
 <summary>Topsport-rooster begrijpen</summary>
