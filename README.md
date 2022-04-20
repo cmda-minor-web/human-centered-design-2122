@@ -40,7 +40,7 @@ En hoe bedient deze persoon een computer?
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Kickoff, College exclusive design + Testen | College + Testen | Feedbackgesprekken |
+| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro, College exclusive design + Testen | College + Testen | Feedbackgesprekken |
 | [Week 2](#week-2---prototypen-en-testen)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
 | ~~Meivakantie~~ |   |  |   |
 | [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
@@ -58,7 +58,7 @@ Daarna prototypen en testen.
 
 ### Donderdag 21 april
 
-Donderdag begint de les met een college over testen. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
+Donderdag begint de les met het delen van bevindingen van de test van woensdag. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
 
 Daarna prototypen en testen.
 
